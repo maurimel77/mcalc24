@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mcalc24/static/css/main.f28370ed.css",
+    "main.js": "/mcalc24/static/js/main.ed558b77.js",
+    "index.html": "/mcalc24/index.html",
+    "main.f28370ed.css.map": "/mcalc24/static/css/main.f28370ed.css.map",
+    "main.ed558b77.js.map": "/mcalc24/static/js/main.ed558b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28370ed.css",
+    "static/js/main.ed558b77.js"
+  ]
+}
