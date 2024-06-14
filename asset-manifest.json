@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mcalc24/static/css/main.f5866333.css",
-    "main.js": "/mcalc24/static/js/main.2a74621f.js",
+    "main.js": "/mcalc24/static/js/main.5743cf5f.js",
     "index.html": "/mcalc24/index.html",
     "main.f5866333.css.map": "/mcalc24/static/css/main.f5866333.css.map",
-    "main.2a74621f.js.map": "/mcalc24/static/js/main.2a74621f.js.map"
+    "main.5743cf5f.js.map": "/mcalc24/static/js/main.5743cf5f.js.map"
   },
   "entrypoints": [
     "static/css/main.f5866333.css",
-    "static/js/main.2a74621f.js"
+    "static/js/main.5743cf5f.js"
   ]
 }
